@@ -1,0 +1,5 @@
+{
+  "name": "製作line貼圖小工具",
+  "description": "A character expression sticker generator using Gemini 2.5 Flash Image. Upload a character and generate consistent facial expression variations.",
+  "requestFramePermissions": []
+}
