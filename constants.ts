@@ -13,7 +13,7 @@ export const PRESET_EXPRESSIONS: PresetExpression[] = [
 ];
 
 // Image generation model (supports image output)
-export const MODEL_NAME = 'gemini-2.0-flash-preview-image-generation';
+export const MODEL_NAME = 'gemini-3-pro-image-preview';
 // Text-only model for style list generation
 export const TEXT_MODEL_NAME = 'gemini-2.5-flash';
 // Multimodal model for metadata (accepts image + text)
